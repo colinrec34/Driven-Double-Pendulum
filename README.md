@@ -13,5 +13,7 @@ The nonlinear equations of the double pendulum system were solved numerically an
 This system was extended by adding oscillatory translational motion to the upper pendulum. This increased the complexity of the derivation for the equations of motion, so SymPy was used to analytically find these equations of motion.
 With this modified system, the equations of motion were solved numerically across a range of driving frequencies for the translation stage of the double pendulum. The average kinetic energy was calculated at each driving frequency, which was taken as a measure of resonance in the system. The driving frequency that corresponded to the highest average kinetic energy was determined to be the resonant driving frequency of the system, which was again animated to showcase the resonant behavior of the extended double pendulum system.
 
+![](https://github.com/colinrec34/PHY553/blob/master/Double_Pendulum/animation.gif)
+
 ## Topics Covered in Homeworks
 Algorithms, data visualization, data fitting/statistics, computational optimization, 3D graphics/animations, numerical solutions for integrals and linear/nonlinear differential equations, discrete Fourier transforms, Monte Carlo-Markov Chain Methods, Fast Fourier Tranforms, Relaxation Methods
