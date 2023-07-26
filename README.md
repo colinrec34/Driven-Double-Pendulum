@@ -6,7 +6,7 @@ Libraries used: NumPy, SciPy, SymPy
 
 These are the .ipynb files that I used throughout my computational physics course PHY553. The homework assignments explored various techniques utilized throughout physics numerical modeling and simulations. The final project utilized learned techniques to study resonance effects in a modified double pendulum system.
 
-## Modelling Resonance in the Modified Double Pendulum
+## Modelling Resonance in the Driven Double Pendulum
 This was my final project for the course that hinged upon numerical solutions to the chaotic system of the double pendulum. 
 The nonlinear equations of the double pendulum system were solved numerically and an animation was created to showcase the chaotic nature of the double pendulum.
 
